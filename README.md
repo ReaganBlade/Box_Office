@@ -1,6 +1,6 @@
-# 📊 Interactive Data Explorer
+# 📊 BOX OFFICE Data Explorer
 
-Welcome to **Interactive Data Explorer**, a Streamlit app designed for exploring movie genre performance at the box office. This app offers an interactive experience where users can filter data by movie genres and specific year ranges, view and edit the data, and visualize the results with dynamic line charts.
+Welcome to **BOX OFFICE Data Explorer**, a Streamlit app designed for exploring movie genre performance at the box office. This app offers an interactive experience where users can filter data by movie genres and specific year ranges, view and edit the data, and visualize the results with dynamic line charts.
 
 ## Features
 
